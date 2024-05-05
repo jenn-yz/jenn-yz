@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jenn-yz
-- 👀 I’m interested in being a developer
+- 👀 I’m interested in being a good developer
 - 🌱 I’m currently learning a web development
 - 💞️ I’m looking to collaborate on good developers
-- 📫 How to reach me jennyjamesanya@gmail.com
+- 📫 How to reach me at jennyjamesanya@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
